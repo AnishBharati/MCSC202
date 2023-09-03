@@ -1,0 +1,22 @@
+.calculator {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .calculator input {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .calculator button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .calculator p {
+    margin-top: 10px;
+  }
+  
